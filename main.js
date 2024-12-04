@@ -88,4 +88,5 @@ let options = [
     "Dec",
   ];
 
-  console.log 
+console.log ("Which month were you born?", [options[4]])
+// Simple way to add a string to specific part of the array.
